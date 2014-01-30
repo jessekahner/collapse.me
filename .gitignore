@@ -29,7 +29,8 @@ local.properties
 .buildpath
 
 .pid
-.collapseMe.sublime-project
+*.sublime-project
+*.sublime-workspace
 mixture.json
 source/.pid
 source/mixture.json
